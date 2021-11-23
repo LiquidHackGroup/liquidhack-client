@@ -56,16 +56,16 @@ const Navbar = () => {
 								<a href="#home">Home</a>
 							</p>
 							<p>
-								<a href="#wgpt3">What is GPT3?</a>
+								<a href="#wgpt3">Our Specialty</a>
 							</p>
 							<p>
-								<a href="#possibility">Open AI</a>
+								<a href="#possibility">Trends</a>
 							</p>
 							<p>
 								<a href="#features">Case Studies</a>
 							</p>
 							<p>
-								<a href="#blog">Library</a>
+								<a href="#blog">Our Blog</a>
 							</p>
 						</div>
 						<div className="gpt3__navbar-menu_container-links-sign">

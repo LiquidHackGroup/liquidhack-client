@@ -1,5 +1,5 @@
 import React from 'react';
-import people from '../../assets/people.png';
+// import people from '../../assets/people.png';
 import ai from '../../assets/ai.png';
 import './header.css';
 
@@ -18,10 +18,10 @@ const Header = () => (
 				<button type="button">Get Started</button>
 			</div>
 
-			<div className="gpt3__header-content__people">
+			{/* <div className="gpt3__header-content__people">
 				<img src={people} alt="people" />
 				<p>Our committed team</p>
-			</div>
+			</div> */}
 		</div>
 
 		<div className="gpt3__header-image">
